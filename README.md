@@ -79,3 +79,6 @@ c. Histogram or frequency charts to analyze the distribution of the data
 d. Heatmap of correlation analysis among the relevant variables
 
 e. Create bins of these age values: 20-25, 25-30, 30-35, etc. Analyze different variables for these age brackets using a bubble chart.
+
+
+Link to Tableau project:https://public.tableau.com/views/Healthcare_16333310961650/HealthcareDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
